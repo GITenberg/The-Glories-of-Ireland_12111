@@ -1,0 +1,30 @@
+_repo: The-Glories-of-Ireland_12111
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Dunn, Joseph
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '4512'
+    url: http://www.gutenberg.org/2009/agents/4512
+  - agent_name: Lennox, P. J. (Patrick Joseph)
+    alias: Lennox, Patrick Joseph
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '4511'
+    url: http://www.gutenberg.org/2009/agents/4511
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- Civilization'
+- GITenberg
+title: The Glories of Ireland
+url: http://www.gutenberg.org/ebooks/12111
